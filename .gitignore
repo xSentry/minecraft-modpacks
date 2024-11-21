@@ -1,0 +1,11 @@
+# Ignore everything
+*
+
+# Except these folders
+!mods/**
+!resourcepacks/**
+!forgeinstaller/**
+
+# Ensure all files within these folders are tracked
+!shaderpacks/BSL*
+!shaderpacks/ComplementaryReimagined*
